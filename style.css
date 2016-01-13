@@ -1,0 +1,23 @@
+.darkGray {
+    width: 6vw;
+    height: 6vw;
+    display: inline-block;
+    background-color: darkgray;
+}
+.lightGray {
+    width: 6vw;
+    height: 6vw;
+    display: inline-block;
+    background-color: lightgray;
+}
+.row {
+    height: 6vw;
+}
+#chess-board {
+    border: 2px solid black;
+    width: 48vw;
+    font-size: 6vw;
+    text-align: center;
+    line-height: 6vw;
+}
+
